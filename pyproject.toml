@@ -1,0 +1,10 @@
+[project]
+name = "discord-bot-system"
+version = "0.1.0"
+description = "Discord bot with invite tracking and prize system"
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "discord-py>=2.4.0",
+    "pynacl>=1.6.1",
+]

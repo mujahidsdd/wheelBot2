@@ -1,0 +1,115 @@
+{
+  "1443261617835081780": {
+    "invites": {},
+    "normal_prizes": [
+      "test1",
+      "test2",
+      "test3",
+      "test4",
+      "test5"
+    ],
+    "vip_prizes": [
+      "test1",
+      "test2",
+      "test",
+      "test4",
+      "test5"
+    ],
+    "settings": {
+      "spin_cost_normal": 1,
+      "spin_cost_vip": 5,
+      "bot_avatar_url": null,
+      "streaming_status": "developer: Mujahid",
+      "invite_log_channel": null,
+      "daily_spin_limit": 10
+    },
+    "spin_results": [],
+    "daily_spins": {
+      "1162402662902419497": {
+        "date": "2025-11-29",
+        "count": 0
+      }
+    }
+  },
+  "1419581708822511620": {
+    "invites": {},
+    "normal_prizes": [
+      "test1",
+      "test2",
+      "test3",
+      "test4",
+      "test5"
+    ],
+    "vip_prizes": [
+      "test1",
+      "test2",
+      "test3",
+      "test4",
+      "test5"
+    ],
+    "settings": {
+      "spin_cost_normal": 1,
+      "spin_cost_vip": 5,
+      "bot_avatar_url": null,
+      "streaming_status": "الدوران والفوز!",
+      "invite_log_channel": null,
+      "daily_spin_limit": 1
+    },
+    "spin_results": [
+      {
+        "user": "<@1162402662902419497>",
+        "type": "normal",
+        "prize": "جائزة 3",
+        "time": "2025-11-29 19:28:03"
+      },
+      {
+        "user": "<@1162402662902419497>",
+        "type": "vip",
+        "prize": "جائزة VIP 3",
+        "time": "2025-11-29 19:28:09"
+      },
+      {
+        "user": "<@1162402662902419497>",
+        "type": "normal",
+        "prize": "test3",
+        "time": "2025-11-29 19:29:21"
+      },
+      {
+        "user": "<@1162402662902419497>",
+        "type": "vip",
+        "prize": "test2",
+        "time": "2025-11-29 19:29:24"
+      },
+      {
+        "user": "<@1162402662902419497>",
+        "type": "normal",
+        "prize": "test3",
+        "time": "2025-11-29 19:30:22"
+      },
+      {
+        "user": "<@1162402662902419497>",
+        "type": "vip",
+        "prize": "test2",
+        "time": "2025-11-29 19:30:25"
+      },
+      {
+        "user": "<@1162402662902419497>",
+        "type": "vip",
+        "prize": "test5",
+        "time": "2025-11-29 19:30:28"
+      },
+      {
+        "user": "<@1162402662902419497>",
+        "type": "normal",
+        "prize": "test2",
+        "time": "2025-11-29 19:33:03"
+      }
+    ],
+    "daily_spins": {
+      "1162402662902419497": {
+        "date": "2025-11-29",
+        "count": 1
+      }
+    }
+  }
+}
